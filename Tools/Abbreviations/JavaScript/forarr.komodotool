@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "forarr", 
+  "value": [
+    "for(var [[%tabstop1:i]]=0; [[%tabstop1:i]] < [[%tabstop:array]].length!@#_currentPos!@#_anchor; ++[[%tabstop1:i]])\n{\n\t[[%tabstop:]]\n}"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

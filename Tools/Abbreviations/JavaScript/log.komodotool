@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "log", 
+  "value": [
+    "log([[%tabstop1:message]]);!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

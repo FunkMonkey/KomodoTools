@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "func", 
+  "value": [
+    "function [[%tabstop1]]([[%tabstop2]])", 
+    "{\n   [[%tabstop:]] \n}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

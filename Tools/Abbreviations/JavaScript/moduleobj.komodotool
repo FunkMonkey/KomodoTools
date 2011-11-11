@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "moduleobj", 
+  "value": [
+    "\"use strict\";\n\nModuleSystem.registerModule(\"[[%tabstop1:path]]/[[%tabstop2:name]]\", function(require, exports, module){\n\t\n\tvar [[%tabstop2:name]] = {\n\t\t[[%tabstop:]]\n\t};\n\t\n\texports.[[%tabstop2]] = [[%tabstop2]];\n});!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "moduleclass", 
+  "value": [
+    "\"use strict\";\n\nModuleSystem.registerModule(\"[[%tabstop1:modpath]]/[[%tabstop2:name]]\", function(require, exports, module){\n\t\n\tfunction [[%tabstop2:name]]()\n\t{\n\t\t[[%tabstop:]]\n\t}\n\t\n\t[[%tabstop2]].prototype = {\n\t\tconstructor: [[%tabstop2]],\n\t\t\n\t\t\n\t};\n\t\n\texports.[[%tabstop2]] = [[%tabstop2]];\n});!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Undoc Functions", 
+  "language": "JavaScript", 
+  "trigger_enabled": false, 
+  "value": [
+    "", 
+    "//^[\\s]*(?!\\*\\/)[\\s]*", 
+    "//^[\\s\\w\\d:]*function", 
+    "var dialog = ko.launch.find(\"^[\\\\s]*(?!\\\\*\\\\/)[\\\\s]*\\\\n[\\\\s\\\\w\\\\d:]*function\");", 
+    ""
+  ], 
+  "trigger": "trigger_postopen", 
+  "rank": 100, 
+  "version": "1.0.7", 
+  "async": false, 
+  "type": "macro"
+}

@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "forin", 
+  "value": [
+    "for(var [[%tabstop1:key]] in [[%tabstop2:object!@#_currentPos!@#_anchor]])\n{\n\t[[%tabstop:]]\n}"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

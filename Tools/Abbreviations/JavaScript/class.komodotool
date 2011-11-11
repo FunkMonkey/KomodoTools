@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "class", 
+  "value": [
+    "function [[%tabstop1:className]]()", 
+    "{\n\t[[%tabstop:]]\n}\n\n[[%tabstop1]].prototype = {\n\tconstructor: [[%tabstop1]],\n\t\n\t\n};!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}
