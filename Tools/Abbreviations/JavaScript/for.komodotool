@@ -2,8 +2,7 @@
   "keyboard_shortcut": "", 
   "name": "for", 
   "value": [
-    "for(var [[%tabstop1:i]]=0; [[%tabstop1:i]] < [[%tabstop:size]]; ++!@#_currentPos!@#_anchor[[%tabstop1:i]])", 
-    "{\n\t[[%tabstop:]]\n}"
+    "for(var [[%tabstop1:i]] = 0, len = [[%tabstop2:size]]; [[%tabstop1:i]] < len; ++[[%tabstop1:i]])\n{\n\t[[%tabstop:]]\n}!@#_currentPos!@#_anchor"
   ], 
   "set_selection": "true", 
   "version": "1.0.7", 

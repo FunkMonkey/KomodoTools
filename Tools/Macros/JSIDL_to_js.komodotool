@@ -15,7 +15,7 @@
     "", 
     "function parseFunction(line)", 
     "{", 
-    "    var regEx = /^\\s*([_\\w\\d]*)[\\s]+([_\\w\\d]*)\\(([_\\w\\d \\t,]*)\\)[;\\s]*$/", 
+    "    var regEx = /^\\s*([_\\w\\d]*)[\\s]+([_\\w\\d]*)\\(([_\\w\\d \\t,$]*)\\)[;\\s]*$/", 
     "    var match = line.match(regEx);", 
     "    ", 
     "    var result = {", 
